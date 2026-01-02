@@ -57,5 +57,6 @@ To grow as a **Data Analyst** by working on real-world datasets, strengthening a
 
 ---
 
-## 🔗 Connect With Me
-- [LinkedIn – Nikhil Patil](https://www.linkedin.com/in/nikhil-patil-a69316252)
+## 🔗 Contact With Me
+- 💼 **LinkedIn:** [Nikhil Patil](https://www.linkedin.com/in/nikhil-patil-a69316252)
+- 📧 **Email:** nikhilpp5129@gmail.com
