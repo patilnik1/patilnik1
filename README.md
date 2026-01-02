@@ -1,14 +1,13 @@
-
 # 👋 Hi, I'm a Junior Data Analyst
 
-📊 Passionate about turning raw data into meaningful insights using **SQL & Python**.  
-I enjoy working on data cleaning, exploratory data analysis, and data visualization to support data-driven decisions.
+📈 Passionate about turning raw data into meaningful insights using **SQL & Python**.  
+I specialize in data cleaning, exploratory data analysis, and visualization to support data-driven decision-making.
 
 ---
 
-## 🚀 Skills & Technologies
+## 🧠 Skills & Technologies
 
-### 🧑‍💻 Programming Languages
+### 💻 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -16,7 +15,7 @@ I enjoy working on data cleaning, exploratory data analysis, and data visualizat
 
 ---
 
-### 📚 Libraries / Frameworks
+### 📊 Libraries & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -35,18 +34,18 @@ I enjoy working on data cleaning, exploratory data analysis, and data visualizat
 
 ---
 
-## 📈 What I Do
-- Data Cleaning & Preprocessing  
+## 📌 Core Responsibilities
+- Data cleaning & preprocessing  
 - Exploratory Data Analysis (EDA)  
 - Writing optimized SQL queries  
-- Data Visualization & Reporting  
-- Finding trends, patterns & insights  
+- Data visualization & reporting  
+- Identifying trends, patterns & insights  
 
 ---
 
-## 🛠️ Tools
+## 🛠️ Tools & Environment
 <p align="left">
-  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -54,10 +53,9 @@ I enjoy working on data cleaning, exploratory data analysis, and data visualizat
 ---
 
 ## 🎯 Career Objective
-To grow as a **Data Analyst** by working on real-world datasets, improving analytical skills, and contributing to data-driven business decisions.
+To grow as a **Data Analyst** by working on real-world datasets, strengthening analytical skills, and delivering impactful business insights.
 
 ---
 
-## 📫 Connect With Me
-- 🔗 [LinkedIn – Nikhil Patil](https://www.linkedin.com/in/nikhil-patil-a69316252)
-
+## 🔗 Connect With Me
+- [LinkedIn – Nikhil Patil](https://www.linkedin.com/in/nikhil-patil-a69316252)
