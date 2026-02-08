@@ -35,7 +35,7 @@ I specialize in data cleaning, exploratory data analysis, and visualization to s
 ---
 
 ## 📌 Core Responsibilities
-- Data cleaning & preprocessing  
+- Filtering, Data cleaning & preprocessing  
 - Exploratory Data Analysis (EDA)  
 - Writing optimized SQL queries  
 - Data visualization & reporting  
