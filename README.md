@@ -1,4 +1,5 @@
-# 👋 Hi, I'm a Junior Data Analyst 
+# 👋 Hi, I'm Nikhil Patil 
+    Junior Data Analyst 
 
 📈 Passionate about turning raw data into meaningful insights using **SQL & Python**.  
 I specialize in data cleaning, exploratory data analysis, and visualization to support data-driven decision-making, and also designed effective Dashboards.
