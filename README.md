@@ -26,15 +26,6 @@ I specialize in data cleaning, exploratory data analysis, and visualization to s
 
 ---
 
-### 🗄️ Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
-
----
-
 ## 📌 Core Responsibilities
 - Filtering, Data cleaning & preprocessing  
 - Exploratory Data Analysis (EDA)  
@@ -52,12 +43,6 @@ I specialize in data cleaning, exploratory data analysis, and visualization to s
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
-
----
-
-## 🎯 Career Objective
-To grow as a **Data Analyst** by working on real-world datasets, strengthening analytical skills, and delivering impactful business insights.
 
 ---
 
