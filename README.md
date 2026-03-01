@@ -34,6 +34,7 @@ I specialize in data cleaning, exploratory data analysis, and visualization to s
 - Identifying trends, patterns & insights  
 
 ---
+
 ## 🛠️ Tools & Environment  
 <p align="center">
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
