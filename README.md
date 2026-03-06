@@ -4,7 +4,7 @@
 📈 Passionate about turning raw data into meaningful insights using **SQL & Python**.  
 I specialize in data cleaning, exploratory data analysis, and visualization to support data-driven decision-making, and also designed effective Dashboards.
 
----
+--- 
 
 ## 🧠 Skills & Technologies
 
