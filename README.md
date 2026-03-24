@@ -50,3 +50,34 @@ I specialize in data cleaning, exploratory data analysis, and visualization to s
 ## 🔗 Contact With Me
 - 💼 **LinkedIn:** [Nikhil Patil](https://www.linkedin.com/in/nikhil-patil-a69316252)
 - 📧 **Email:** nikhilpp5129@gmail.com
+
+
+
+<h1 align="center">Hi 👋, I'm Nikhil Patil</h1>
+<h3 align="center">📊 Data Analyst | Turning Data into Insights</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;SQL+Developer;Python+for+Data+Science;Power+BI+Enthusiast&center=true&width=500&height=50">
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 📊 Data Analysis & Visualization
+- 🐍 Python | 🗄️ SQL | 📈 Excel | 📊 Power BI
+- 🎯 Goal: Become a Professional Data Analyst
+
+---
+
+### 🛠️ Skills
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Dashboard Creation
+- Data Visualization
+
+---
+
+### 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark" />
+</p>
