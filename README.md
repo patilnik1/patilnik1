@@ -1,17 +1,9 @@
 #  Hi 👋, I'm Nikhil Patil 
-<h1 align="center">Hi 👋, I'm Nikhil Patil</h1>
 
 <h3 align="center">📊 Junior Data Analyst | Turning Data into Insights 📈</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Data+Analyst;SQL+Developer;Python+for+Data+Analysis;Power+BI+Enthusiast;Tableau+Enthusiast&center=true&width=600&height=50&color=00C2FF&vCenter=true&size=22">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/Python-Data%20Analysis-yellow?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/PowerBI-Dashboard-orange?style=for-the-badge&logo=powerbi"/>
-  <img src="https://img.shields.io/badge/Tableau-Visualization-red?style=for-the-badge&logo=tableau"/>
 </p>
 
 ---
