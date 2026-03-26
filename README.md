@@ -60,6 +60,3 @@ I specialize in data cleaning, exploratory data analysis, and visualization to s
 - 📧 **Email:** nikhilpp5129@gmail.com
 
 
-
-.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark" />
-</p>
