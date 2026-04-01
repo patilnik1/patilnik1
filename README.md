@@ -1,4 +1,4 @@
-#  Hi 👋, I'm Nikhil Patil 
+#  Hi 👋, I'm Nikhil Patil  
 
 <h3 align="center">📊 Junior Data Analyst | Turning Data into Insights 📈</h3>
 
