@@ -55,6 +55,19 @@ I specialize in data cleaning, exploratory data analysis, and visualization to s
 
 ---
 
+## 🏆 Certifications
+- ✅ Accenture Data Visualization  
+- ✅ Power BI Certification  
+- ✅ Deloitte Data Analytics Virtual Internship  
+- ✅ Smart India Hackathon (SIH) 2024  
+- ✅ Google Analytics Certification  
+- ✅ Cisco Networking Essentials  
+- ✅ Cisco Award  
+- ✅ Cisco Badge  
+
+---
+
+
 ## 🔗 Contact With Me
 - 💼 **LinkedIn:** [Nikhil Patil](https://www.linkedin.com/in/nikhil-patil-a69316252)
 - 📧 **Email:** nikhilpp5129@gmail.com
