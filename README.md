@@ -56,14 +56,14 @@ I specialize in data cleaning, exploratory data analysis, and visualization to s
 ---
 
 ## 🏆 Certifications
-- ✅ Accenture Data Visualization  
-- ✅ Power BI Certification  
+- ✅ Cisco Data Analytics Essential Certification  
+- ✅ Cisco Data Analytics Award  
+- ✅ Cisco Data Analytics Badge certified
 - ✅ Deloitte Data Analytics Virtual Internship  
-- ✅ Smart India Hackathon (SIH) 2024  
+- ✅ Accenture Data Visualization Certification  
 - ✅ Google Analytics Certification  
-- ✅ Cisco Networking Essentials  
-- ✅ Cisco Award  
-- ✅ Cisco Badge  
+- ✅ Power BI Workshop Certification  
+- ✅ Smart India Hackathon (SIH) 2024    
 
 ---
 
