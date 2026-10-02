@@ -56,6 +56,7 @@ I specialize in data cleaning, exploratory data analysis, and visualization to s
 ---
 
 ## 🏆 Certifications
+- ✅ AWS Certified
 - ✅ Cisco Data Analytics Essential Certification  
 - ✅ Cisco Data Analytics Award  
 - ✅ Cisco Data Analytics Badge certified
